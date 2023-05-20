@@ -9,7 +9,7 @@ The purpose is to leverage a historical dataset of lending activity from a peer-
 # **🧭 Instructions:**
 Follow these steps and join us on this adventure!
 
-*##**🚂 Split the Data into Training and Testing Sets**
+## **🚂 Split the Data into Training and Testing Sets**
 
 1. Import the **lending_data.csv** data from the **Resources** folder into a Pandas DataFrame.
 2. Craft the labels set (**y**) from the "loan_status" column, then create the features (**X**) DataFrame from the remaining columns.
