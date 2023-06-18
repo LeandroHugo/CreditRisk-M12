@@ -1,10 +1,9 @@
 ##### Module-12-Challenge
-
+![Alt text](Resources/ChartMLS.png)
 # **💳 Credit Risk Classification: Unmasking Risky Loans 💼**
 Hello, financial wizards! 🧙‍♂️ Welcome to our project, where we deep-dive into the abyss of credit risk! This is a challenge that takes us through the land of imbalanced classes. By applying various techniques, we'll train and evaluate models and bring balance to the (data) force.
 
 The purpose is to leverage a historical dataset of lending activity from a peer-to-peer lending services company to craft a model that accurately identifies the creditworthiness of borrowers. Healthy loans outnumber risky loans, but fear not! With our trusty data science tools, we're up for the task! 🦸‍♀️
-
 
 # **🧭 Instructions:**
 Follow these steps and join us on this adventure!
@@ -45,7 +44,7 @@ Finally, create a concise report that encapsulates the performance of both machi
 1. An overview of the analysis: Elucidate the purpose of this analysis.
 2. The results: Use bulleted lists to describe the balanced accuracy scores and the precision and recall scores of both machine learning models.
 3. A summary: Summarize the results from the machine learning models. Contrast the two versions of the dataset predictions. Include your recommendation for the model to use, if any, on the original vs. the resampled data. If you don’t recommend either model, substantiate your reasoning.
-
+![Alt text](Resources/ChartM.png)
 # **💡 Have fun and learn lots!**
 This project is designed to make credit risk analysis an exciting adventure, with lots of learning on the go. At the end of the day, we want to ensure credit risk does not remain an uncharted territory. So put on your data scientist hat 🎩, embark on this expedition 🚀, and let's demystify credit risk together!
 
