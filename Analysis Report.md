@@ -42,3 +42,4 @@ The stages of the machine learning process were as follows:
 From the above results, the Logistic Regression model trained with resampled data outperforms the model trained with original data in terms of both accuracy and recall. Accuracy is crucial in this scenario to correctly identify as many true positives and true negatives as possible ✅. Meanwhile, recall is also important as it reflects the model's ability to find all the relevant cases within the dataset, particularly the `1`'s (high-risk loans), as it is crucial for a credit company to correctly identify high-risk loans 🎯.
 
 Therefore, the Logistic Regression model trained with resampled data is recommended for predicting credit risk due to its superior performance in terms of accuracy and recall. 🌟
+![Alt text](Resources/ChartML.png)
