@@ -44,7 +44,7 @@ Finally, create a concise report that encapsulates the performance of both machi
 1. An overview of the analysis: Elucidate the purpose of this analysis.
 2. The results: Use bulleted lists to describe the balanced accuracy scores and the precision and recall scores of both machine learning models.
 3. A summary: Summarize the results from the machine learning models. Contrast the two versions of the dataset predictions. Include your recommendation for the model to use, if any, on the original vs. the resampled data. If you don’t recommend either model, substantiate your reasoning.
-![Alt text](Resources/ChartM.png)
+![Alt text](Resources/Chart.png)
 # **💡 Have fun and learn lots!**
 This project is designed to make credit risk analysis an exciting adventure, with lots of learning on the go. At the end of the day, we want to ensure credit risk does not remain an uncharted territory. So put on your data scientist hat 🎩, embark on this expedition 🚀, and let's demystify credit risk together!
 
